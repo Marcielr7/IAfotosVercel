@@ -13,8 +13,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Foto Reparo</title>
       </Head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3896969974372537"
-     crossorigin="anonymous"></script>
+       
       <Header />
       <main className="flex flex-1 w-full flex-col items-center justify-center text-center px-4 sm:mt-28 mt-20">
         <a
